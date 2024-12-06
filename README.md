@@ -12,3 +12,5 @@ however some changes were made to go more with the theme of
 pyhon.
 
 Accordance to PEP 8 was also OK, thanks to usage of pycharm.
+
+Created by Rychtera Jan
